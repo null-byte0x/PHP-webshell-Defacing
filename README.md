@@ -22,31 +22,21 @@
 <tr>
 <td align="center">
 
-```text
-      ✦  ˚   ✧     ˚  ✦
-   .--"""""""""""""""--.
-  /   .-"""""""""""-.   \
- /  .'   ___   ___   '.  \
-(O)|    (@ )  (@ )     |(O)
- \ |      ~  \_/  ~     | /
-  \ '.               .' /
-   '-._'-.._____..-'_.-'
-       |  >_ 0x90_ |
-       '-----------'
-      anime-chan  (ﾉ◕ヮ◕)ﾉ
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2200&pause=800&color=FF3355&width=360&height=190&multiline=true&repeat=true&lines=%24+file+sample.bin;sample.bin%3A+PE32+executable;%24+strings+sample.bin+%7C+head;%5B%21%5D+suspicious+imports+found;%24+run+--sandbox;%5B%2B%5D+behavior+logged;%5B%E2%9C%93%5D+analysis+complete+%E2%9C%A6" alt="Animated malware analysis terminal"/>
 
 </td>
 <td>
 
 ```text
-╭──────────────────────────────────────╮
-│ (๑•̀ㅂ•́)و✧  anime-chan says:         │
-│                                      │
-│  "Welcome to my lab!                 │
-│   Every binary has a story,          │
-│   let's read it together~ ♡"         │
-╰──────────────────────────────────────╯
+╭──────────────────────────────────────────╮
+│ (๑•̀ㅂ•́)و✧  Analyst:                     │
+│  "Welcome to my lab! Every binary        │
+│   has a story, let's read it together~"  │
+│                                          │
+│ (¬‿¬)  Specimen:                         │
+│  "Don't mind me, I'm just a harmless     │
+│   specimen... in a sandbox... ♡"         │
+╰──────────────────────────────────────────╯
 ```
 
 ```text
@@ -95,7 +85,7 @@ flowchart LR
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2400&pause=800&color=FF3355&vCenter=true&width=440&lines=%24+My+Toolkit;%24+Loading+Arsenal...;%24+Tools+Initialized" alt="Animated toolkit heading"/>
 
-> `(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧` **anime-chan:** "My favorite tools, sorted by how often I open them!"
+> `(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧` **Analyst:** "My favorite tools, sorted by how often I open them!"
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2000&pause=800&color=FF3355&vCenter=true&width=440&lines=%5B01%5D+Reverse+Engineering" alt="Reverse engineering"/>
 
@@ -176,7 +166,7 @@ flowchart LR
 
 I use CTFs and practical exercises to improve my problem-solving skills. I also document what I learn so other beginners can benefit from my notes.
 
-> `٩(ˊᗜˋ*)و` **anime-chan:** "Flag captured! …okay, that was just a strings dump, but still counts!"
+> `٩(ˊᗜˋ*)و` **Analyst:** "Flag captured! …okay, that was just a strings dump, but still counts!"
 
 ---
 
@@ -230,7 +220,7 @@ When I'm not in a disassembler, I'm probably watching anime 🍜
 
 <br/><br/>
 
-`anime-chan:  またね～  (ノ◕ヮ◕)ノ*:･ﾟ✧`
+`またね～  (ノ◕ヮ◕)ノ*:･ﾟ✧`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=900&color=FF3355&center=true&vCenter=true&width=600&lines=0x00+Observe.;0x01+Analyze.;0x02+Understand.;End+of+transmission._" alt="Animated closing message"/>
 
