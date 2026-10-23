@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,40:003d0f,75:00a82b,100:00ff41&height=260&section=header&text=null_byte0x&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=REVERSE%20ENGINEERING%20%7C%20MALWARE%20ANALYSIS%20%7C%20BINARY%20EXPLOITATION&descSize=13&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,40:003d0f,75:00a82b,100:00ff41&height=280&section=header&text=null-byte0x&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=MALWARE%20DEV%20%7C%20BINARY%20ANALYSIS%20%7C%20REVERSE%20ENGINEERING&descSize=13&descAlignY=62" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2000&pause=650&color=39ff6e&center=true&vCenter=true&width=800&lines=%24+whoami+%3E+null_byte0x+%E2%9C%A6;%24+analyzing+the+unknown...;%24+disassembling+binaries...;%24+%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0+loaded;%24+observe.+reverse.+understand." alt="Animated terminal introduction"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=700&color=39ff6e&center=true&vCenter=true&width=820&lines=%24+whoami+%3E+security+researcher+%26+low-level+dev;%24+reading+the+unknown...;%24+disassembling+binaries...;%24+malware+analysis+loaded;%24+observe.+reverse.+understand.)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=null_byte0x&label=PROFILE+VISITORS&color=00ff41&style=for-the-badge" alt="Profile visitors"/>
-<img src="https://img.shields.io/github/followers/null_byte0x?style=for-the-badge&logo=github&color=00ff41&labelColor=080808" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/null_byte0x?style=for-the-badge&logo=github&color=00ff41&labelColor=080808" alt="Stars"/>
+![Profile Views](https://komarev.com/ghpvc/?username=null-byte0x&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/null-byte0x?style=for-the-badge&logo=github&color=00ff41&labelColor=080808)
 
-<br/><br/>
+<br/>
 
 **✦ ━━━━━━━ 解析 ・ 逆行 ・ 理解 ━━━━━━━ ✦**
 
@@ -22,207 +21,196 @@
 <tr>
 <td align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2200&pause=800&color=39ff6e&width=360&height=190&multiline=true&repeat=true&lines=%24+file+sample.bin;sample.bin%3A+PE32+executable;%24+strings+sample.bin+%7C+head;%5B%21%5D+suspicious+imports+found;%24+run+--sandbox;%5B%2B%5D+behavior+logged;%5B%E2%9C%93%5D+analysis+complete+%E2%9C%A6" alt="Animated malware analysis terminal"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=2200&pause=800&color=39ff6e&width=340&height=200&multiline=true&repeat=true&lines=%24+file+sample.exe;sample.exe%3A+PE32%2B+executable;%24+strings+sample.exe+%7C+grep+suspicious;%5B!%5D+C2+beacon+detected;%24+x64dbg+--attach+sample.exe;%5B%2B%5D+breakpoints+set;%5B%2B%5D+shellcode+dumped;%5B%E2%9C%93%5D+analysis+complete)](https://git.io/typing-svg)
 
 </td>
 <td>
 
 ```text
-╭──────────────────────────────────────────╮
-│ (๑•̀ㅂ•́)و✧  Analyst:                     │
-│  "Welcome to my lab! Every binary        │
-│   has a story, let's read it together~"  │
-│                                          │
-│ (¬‿¬)  Specimen:                         │
-│  "Don't mind me, I'm just a harmless     │
-│   specimen... in a sandbox... ♡"         │
-╰──────────────────────────────────────────╯
+╭─────────────────────────────────────────────╮
+│  Analyst:                                   │
+│  "Every binary has a story.                 │
+│   I read them in a VM, not in prod."        │
+│                                             │
+│  Specimen:                                  │
+│  "I am a harmless sample...                 │
+│   totally not beaconing right now."         │
+╰─────────────────────────────────────────────╯
 ```
 
 ```text
-[USER]      null_byte0x
-[FIELD]     Computer Science
-[FOCUS]     Reverse Engineering
-[INTEREST]  Malware Analysis
-[VIBE]      ٩(◕‿◕)۶  always learning
-[STATUS]    ████████░░  caffeinated
+[ALIAS]     null-byte0x
+[FOCUS]     Malware Dev & Analysis
+[TOOLS]     IDA · Ghidra · x64dbg · GDB
+[LANG]      C · C++ · Python · Bash · ASM
+[STATUS]    ████████░░  always reversing
 ```
 
 </td>
 </tr>
 </table>
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2200&pause=1000&color=39ff6e&vCenter=true&width=400&lines=%24+whoami;%24+id;%24+cat+profile.txt" alt="Whoami heading"/>
+---
 
-Hey! I'm **Abdulhakim** ✧, a Computer Science student exploring how software works beneath the surface.
+## `$ cat about_me.md`
 
-- 🔬 Learning static and dynamic malware analysis
-- 🧩 Practicing reverse engineering with IDA, Ghidra, and GDB
-- 💻 Exploring C, C++, Python, assembly, and Linux internals
-- 🚩 Practicing reversing and introductory pwn CTF challenges
-- 🛡️ Learning defensive security and malware detection
-- 📚 Building practical skills through labs, experiments, and write-ups
+I'm **null-byte0x** — a security researcher sitting at the intersection of **malware development** and **binary analysis**. I study how malicious code thinks: how it evades, persists, communicates, and hides. Then I build detection for it.
 
-<div align="center">
+On the dev side, I write research-grade code to understand techniques at a systems level — injection, evasion, persistence, shellcode. On the analysis side, I tear samples apart with static and dynamic tooling to document exactly what they do and why.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=39ff6e&center=true&vCenter=true&width=700&lines=%22Every+binary+has+a+story.%22;%22Understand+before+you+exploit.%22;%22Learn.+Reverse.+Understand.%22;%22Ganbatte%2C+one+function+at+a+time.+%E2%99%A1%22" alt="Animated motto"/>
-
-</div>
+```text
+ what I do
+ ├── 🦠  malware development (research & educational samples)
+ ├── 🔬  static & dynamic binary analysis
+ ├── 🧬  reverse engineering — PE, ELF, shellcode, packers
+ ├── 🛡️  detection engineering — YARA rules, IOCs, Sigma
+ ├── 🌐  web exploitation — PHP webshells, LFI/RFI, SQLi
+ └── 📝  write-ups, lab notes, and technical breakdowns
+```
 
 ```mermaid
 flowchart LR
     A([👀 Observe]) --> B([🔬 Analyze])
     B --> C([🧠 Understand])
-    C --> D([📝 Write it up])
-    D --> A
-    style A fill:#111,stroke:#00ff41,color:#fff
-    style B fill:#111,stroke:#00ff41,color:#fff
-    style C fill:#111,stroke:#00ff41,color:#fff
-    style D fill:#111,stroke:#00ff41,color:#fff
+    C --> D([🛡️ Detect])
+    D --> E([📝 Document])
+    E --> A
+    style A fill:#0d0d0d,stroke:#39ff6e,color:#fff
+    style B fill:#0d0d0d,stroke:#39ff6e,color:#fff
+    style C fill:#0d0d0d,stroke:#39ff6e,color:#fff
+    style D fill:#0d0d0d,stroke:#39ff6e,color:#fff
+    style E fill:#0d0d0d,stroke:#39ff6e,color:#fff
 ```
+
+> ⚠️ **All research is conducted in isolated lab environments for educational and defensive purposes only.**
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2400&pause=800&color=39ff6e&vCenter=true&width=440&lines=%24+My+Toolkit;%24+Loading+Arsenal...;%24+Tools+Initialized" alt="Animated toolkit heading"/>
+## `$ ls -la toolkit/`
 
-> `(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧` **Analyst:** "My favorite tools, sorted by how often I open them!"
-
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2000&pause=800&color=39ff6e&vCenter=true&width=440&lines=%5B01%5D+Reverse+Engineering" alt="Reverse engineering"/>
-
+### `[01]` Reverse Engineering
 <p>
-<img src="https://img.shields.io/badge/IDA-111111?style=for-the-badge&logoColor=39ff6e"/>
+<img src="https://img.shields.io/badge/IDA_Pro-111111?style=for-the-badge&logoColor=39ff6e"/>
 <img src="https://img.shields.io/badge/Ghidra-111111?style=for-the-badge&logoColor=39ff6e"/>
+<img src="https://img.shields.io/badge/x64dbg-111111?style=for-the-badge&logoColor=39ff6e"/>
 <img src="https://img.shields.io/badge/Cutter-111111?style=for-the-badge&logoColor=39ff6e"/>
 <img src="https://img.shields.io/badge/GDB-111111?style=for-the-badge&logo=gnu&logoColor=39ff6e"/>
 </p>
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2000&pause=800&color=39ff6e&vCenter=true&width=440&lines=%5B02%5D+Malware+Analysis" alt="Malware analysis"/>
-
+### `[02]` Malware Analysis
 <p>
-<img src="https://img.shields.io/badge/PE%20Analysis-111111?style=for-the-badge&logoColor=39ff6e"/>
+<img src="https://img.shields.io/badge/PE_Analysis-111111?style=for-the-badge&logoColor=39ff6e"/>
 <img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=39ff6e"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=39ff6e"/>
-<img src="https://img.shields.io/badge/Windows%20Internals-111111?style=for-the-badge&logo=windows&logoColor=39ff6e"/>
+<img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=39ff6e"/>
+<img src="https://img.shields.io/badge/Windows_Internals-111111?style=for-the-badge&logo=windows&logoColor=39ff6e"/>
+<img src="https://img.shields.io/badge/VirtualBox-111111?style=for-the-badge&logo=virtualbox&logoColor=39ff6e"/>
 </p>
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2000&pause=800&color=39ff6e&vCenter=true&width=400&lines=%5B03%5D+Languages" alt="Programming languages"/>
-
+### `[03]` Languages
 <p>
 <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=39ff6e"/>
-<img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=cplusplus&logoColor=39ff6e"/>
+<img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=39ff6e"/>
 <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=39ff6e"/>
-<img src="https://img.shields.io/badge/Assembly-111111?style=for-the-badge&logoColor=39ff6e"/>
 <img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=39ff6e"/>
+<img src="https://img.shields.io/badge/x86_ASM-111111?style=for-the-badge&logoColor=39ff6e"/>
+<img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=39ff6e"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=39ff6e"/>
+<img src="https://img.shields.io/badge/HTML%2FCSS-111111?style=for-the-badge&logo=html5&logoColor=39ff6e"/>
 </p>
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2000&pause=800&color=39ff6e&vCenter=true&width=440&lines=%5B04%5D+Debugging+%26+CTF" alt="Debugging and CTF"/>
-
+### `[04]` Detection & Lab
 <p>
+<img src="https://img.shields.io/badge/YARA-111111?style=for-the-badge&logoColor=39ff6e"/>
+<img src="https://img.shields.io/badge/Sigma-111111?style=for-the-badge&logoColor=39ff6e"/>
+<img src="https://img.shields.io/badge/IOC_Extraction-111111?style=for-the-badge&logoColor=39ff6e"/>
 <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=39ff6e"/>
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=39ff6e"/>
-<img src="https://img.shields.io/badge/CTF-111111?style=for-the-badge&logo=hackthebox&logoColor=39ff6e"/>
 </p>
 
-<sub>My learning toolkit evolves as I gain more hands-on experience.</sub>
+---
+
+## `$ cat research_areas.md`
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  🦠  Malware Development                                     │
+│       └─ PE injection · process hollowing · AV evasion       │
+│           shellcode dev · C2 comms · persistence             │
+│                                                              │
+│  🔬  Binary Analysis                                         │
+│       └─ static disassembly · dynamic sandbox · unpacking    │
+│           memory forensics · API call tracing                │
+│                                                              │
+│  🧬  Reverse Engineering                                     │
+│       └─ PE/ELF internals · obfuscation · packer analysis    │
+│           control flow reconstruction                        │
+│                                                              │
+│  🛡️  Detection Engineering                                   │
+│       └─ YARA rules · Sigma rules · IOC extraction           │
+│           behavioral signatures · threat intel               │
+│                                                              │
+│  🌐  Web Security                                            │
+│       └─ PHP webshells · LFI/RFI · SQLi · recon tooling      │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=900&color=39ff6e&vCenter=true&width=500&lines=%24+What+I'm+Exploring;%24+Research+in+Progress...;%24+Keep+Learning" alt="Animated exploration heading"/>
+## `$ ls projects/`
 
-| Area | Current focus | Progress |
+| Project | Description | Stack |
 |---|---|---|
-| 🔍 Reverse engineering | Assembly, control flow, strings and cross-references | `██████░░░░` |
-| 🦠 Malware analysis | Static analysis, imports, PE structure and safe lab workflows | `█████░░░░░` |
-| 💥 Binary exploitation | Stack layout, buffer overflows and ELF protections | `████░░░░░░` |
-| 🐧 Linux internals | Processes, memory mappings, permissions and debugging | `██████░░░░` |
-| 🐍 Security scripting | Python automation and CTF helper tools | `██████░░░░` |
-| 🛡️ Defensive security | Indicators of compromise and detection fundamentals | `████░░░░░░` |
-
-<sub>(edit the bars to match your real progress ✧)</sub>
+| 🔬 **malware-analysis-lab** | IOCs, YARA rules & write-ups for analyzed samples | `YARA` `Python` `Markdown` |
+| 🛡️ **[Coming Soon]** | PE analysis toolkit | `C` `Python` |
+| 💉 **[Coming Soon]** | Shellcode loader (research) | `C` `ASM` |
+| 🌐 **[Coming Soon]** | Web exploitation toolkit | `PHP` `Python` `Bash` |
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=900&color=39ff6e&vCenter=true&width=440&lines=%24+GitHub+Analytics;%24+Reading+Repository+Data...;%24+Statistics+Loaded" alt="Animated analytics heading"/>
+## `$ github-stats --user null-byte0x`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=null_byte0x&show_icons=true&hide_border=true&bg_color=080808&title_color=39ff6e&icon_color=39ff6e&text_color=c9d1d9" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=null-byte0x&show_icons=true&hide_border=true&bg_color=080808&title_color=39ff6e&icon_color=39ff6e&text_color=c9d1d9&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=null-byte0x&layout=compact&hide_border=true&bg_color=080808&title_color=39ff6e&text_color=c9d1d9&langs_count=8" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=null_byte0x&layout=compact&hide_border=true&bg_color=080808&title_color=39ff6e&text_color=c9d1d9" height="170" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=null_byte0x&theme=dark&hide_border=true&background=080808&ring=39ff6e&fire=39ff6e&currStreakLabel=39ff6e" alt="Contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=null-byte0x&theme=dark&hide_border=true&background=080808&ring=39ff6e&fire=39ff6e&currStreakLabel=39ff6e"/>
 
 </div>
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2300&pause=900&color=39ff6e&vCenter=true&width=470&lines=%24+CTF+Practice;%24+Starting+Analysis...;%24+Challenge+Accepted" alt="Animated CTF heading"/>
+## `$ cat disclaimer.txt`
+
+> [!WARNING]
+> **Read before using any tool or code in this repository.**
+
+All research, tools, and code published by **null-byte0x** are developed strictly for:
+
+- 🎓 **Educational purposes** — understanding how offensive techniques work at a technical level
+- 🛡️ **Defensive security** — helping analysts and defenders recognize and counter real threats
+- 🔬 **Controlled lab environments** — all testing is performed on isolated systems I own
+
+```
+1. Only use these resources on systems you own or have explicit written authorization to test.
+2. Do not use this research to harm, exploit, or attack any individual or organization.
+3. Unauthorized computer access is illegal in most jurisdictions worldwide.
+4. The author (null-byte0x) holds zero liability for any misuse of these materials.
+```
+
+> *This is security research. The goal is understanding — not harm.*
+> *If you're here to learn and defend, welcome. If not, look elsewhere.*
+
+---
+
+## `$ cat connect.txt`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1700&pause=500&color=39ff6e&center=true&vCenter=true&width=620&lines=%5B%2B%5D+Reverse+engineering;%5B%2B%5D+Assembly+and+debugging;%5B%2B%5D+Linux+binary+analysis;%5B%2B%5D+Introductory+pwn+challenges;%5B%3E%5D+Learning+one+binary+at+a+time..." alt="Animated CTF activity"/>
+[![GitHub](https://img.shields.io/badge/GitHub-null--byte0x-111111?style=for-the-badge&logo=github&logoColor=39ff6e)](https://github.com/null-byte0x)
 
-</div>
-
-I use CTFs and practical exercises to improve my problem-solving skills. I also document what I learn so other beginners can benefit from my notes.
-
-> `٩(ˊᗜˋ*)و` **Analyst:** "Flag captured! …okay, that was just a strings dump, but still counts!"
-
----
-
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2300&pause=900&color=39ff6e&vCenter=true&width=440&lines=%24+Featured+Projects;%24+Scanning+Repositories...;%24+Building+Something+Useful" alt="Animated projects heading"/>
-
-| Project | Description | Status |
-|---|---|---|
-| 🔎 RE Challenge Write-ups | Notes and solutions for reversing challenges | In progress |
-| 🐍 Binary Analysis Scripts | Python utilities for learning binary formats | Planned |
-| 🛡️ Malware Analysis Notes | Lab notes, static analysis and detection practice | In progress |
-
-*Replace these examples with actual repository links when your projects are published.*
-
----
-
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=900&color=39ff6e&vCenter=true&width=440&lines=%24+Off-Duty+Mode;%24+Loading+Anime+List...;%24+Slice+of+Life+Loaded" alt="Anime heading"/>
-
-When I'm not in a disassembler, I'm probably watching anime 🍜
-
-| 📺 Currently watching | ⭐ All-time favorites | 📋 Plan to watch |
-|---|---|---|
-| *your anime here* | *your favorite here* | *your next one here* |
-| *your anime here* | *your favorite here* | *your next one here* |
-
-<div align="center">
-
-`( ˘ ³˘)♡` *"Reverse engineering is just a mystery anime where the plot twist is in the .text section."*
-
-</div>
-
----
-
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=900&color=39ff6e&vCenter=true&width=450&lines=%24+Learning+Roadmap;%24+Progress+Is+Loading...;%24+Never+Stop+Reversing" alt="Animated learning roadmap"/>
-
-- [ ] Read x86/x64 assembly more confidently
-- [ ] Improve static and dynamic malware analysis
-- [ ] Practice debugging PE and ELF binaries
-- [ ] Publish useful CTF walkthroughs
-- [ ] Build Python reverse-engineering utilities
-- [ ] Develop practical malware detection skills
-
----
-
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=900&color=39ff6e&vCenter=true&width=380&lines=%24+Connect;%24+Establishing+Connection...;%24+Connection+Ready" alt="Animated connect heading"/>
-
-<div align="center">
-
-<a href="https://github.com/null_byte0x">
-<img src="https://img.shields.io/badge/GitHub-null__byte0x-111111?style=for-the-badge&logo=github&logoColor=39ff6e"/>
-</a>
-
-<br/><br/>
-
-`またね～  (ノ◕ヮ◕)ノ*:･ﾟ✧`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=900&color=39ff6e&center=true&vCenter=true&width=600&lines=0x00+Observe.;0x01+Analyze.;0x02+Understand.;End+of+transmission._" alt="Animated closing message"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=900&color=39ff6e&center=true&vCenter=true&width=600&lines=0x00+Observe.;0x01+Analyze.;0x02+Understand.;0x03+Detect.;0x04+Document.;End+of+transmission._)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:005c1a,100:050505&height=140&section=footer" width="100%"/>
 
