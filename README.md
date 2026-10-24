@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,40:1a0000,75:8b0000,100:ff2200&height=220&section=header&text=null_byte0x&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=PHP%20WEBSHELL%20%7C%20ANALYSIS%20%26%20DETECTION&descSize=13&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,40:1a0000,75:8b0000,100:ff2200&height=220&section=header&text=null-byte0x&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=PHP%20WEBSHELL%20%7C%20ANALYSIS%20%26%20DETECTION&descSize=13&descAlignY=62" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2000&pause=700&color=ff4444&center=true&vCenter=true&width=820&lines=%24+file+dtool_pro17.php+%3E+PHP+script%2C+ASCII+text;%24+grep+%27passthru%5C%7Csystem%5C%7Cpopen%27+dtool_pro17.php;%5B%21%5D+RCE+functions+detected;%24+yara+detections%2Fdtool_pro17.yar+dtool_pro17.php;%5B%2B%5D+PHP_Webshell_DtoolPro17+MATCHED)](https://git.io/typing-svg)
 
