@@ -1,21 +1,12 @@
 <!--
 Defacing Tool Pro v1.7 comentado by r3v3ng4ns
-Autor: r3v3ng4ns - revengans@hotmail.com
+Autor: null-byte0x - revnull.byte0x@gmail.com
 Modifique, copie e distribua mas, por favor, mantenha o nome dos autores originais
 
-A minha intencao inicial sempre foi deixar o script publico, apesar da decisao do meu grupo de deixa-lo priv8.
-Mas, deixando-o priv8, ele poderia parar por aqui. Por isso, fiz essa versao comentada do script, e estou tornando-a
-publica. Espero que voces desenvolvam cada vez mais o script, melhorem ele e, por favor, deixando o nome dos autores
-originais. Peço ainda que vcs me enviem um email (revengans@hotmail.com) com a versao do script que voces fizeram.
-Por enquanto, soh tornei publico e comentado o pro17 (a parte principal da cmd). Os scripts complementares eu ainda
-vou comenta-los mas, apesar das ferias, ainda estou sem tempo :P. E passo depois os comentarios para ingles...
-
-ps. : eu sei que o filh0te vai ficar puto da vida pq eu estou fzendo isso, mas eu posso :P
-pps.: essa versao aqui eh a mesma que era priv8. com excessao de que esta comentada (e muito. acho q exagerei).
-ppps: desligue o wordwrap (quebra de linha) do seu editor para visualizar da maneira correta o codigo.
 
 
-//-> r3v3ng4ns
+
+//-> null-byte0x
 //-> there's no patch for the stupidity of mankind
 -->
 <?php
